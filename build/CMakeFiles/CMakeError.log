@@ -1,0 +1,829 @@
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/Users/Andreas/Documents/CBlusBlus/Udacity/CppND-Route-Planning-Project/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_4ffb5\fast && Das System kann die angegebene Datei nicht finden
+Generator: execution of make failed. Make command was: nmake /nologo cmTC_4ffb5\fast && 
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/Andreas/Documents/CBlusBlus/Udacity/CppND-Route-Planning-Project/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_07e01\fast && Das System kann die angegebene Datei nicht finden
+Generator: execution of make failed. Make command was: nmake /nologo cmTC_07e01\fast && 
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags:  
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags: -c 
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags:  
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags: -c 
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+Zugriff verweigert
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/Andreas/Documents/CBlusBlus/Udacity/CppND-Route-Planning-Project/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_5b7d6\fast && Das System kann die angegebene Datei nicht finden
+Generator: execution of make failed. Make command was: nmake /nologo cmTC_5b7d6\fast && 
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags:  
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags: -c 
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags:  
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags: -c 
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+Zugriff verweigert
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags:  
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags: -c 
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags:  
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags: -c 
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+Zugriff verweigert
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/Andreas/Documents/CBlusBlus/Udacity/CppND-Route-Planning-Project/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_9f917\fast && Das System kann die angegebene Datei nicht finden
+Generator: execution of make failed. Make command was: nmake /nologo cmTC_9f917\fast && 
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags:  
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags: -c 
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags:  
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags: -c 
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+Zugriff verweigert
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags:  
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags: -c 
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags:  
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags: -c 
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+Zugriff verweigert
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/Users/Andreas/Documents/CBlusBlus/Udacity/CppND-Route-Planning-Project/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_84a20\fast && Das System kann die angegebene Datei nicht finden
+Generator: execution of make failed. Make command was: nmake /nologo cmTC_84a20\fast && 
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/Andreas/Documents/CBlusBlus/Udacity/CppND-Route-Planning-Project/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_8cced\fast && Das System kann die angegebene Datei nicht finden
+Generator: execution of make failed. Make command was: nmake /nologo cmTC_8cced\fast && 
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags:  
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags: -c 
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags:  
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags: -c 
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+Zugriff verweigert
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+Zugriff verweigert
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/Andreas/Documents/CBlusBlus/Udacity/CppND-Route-Planning-Project/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_4c669\fast && Das System kann die angegebene Datei nicht finden
+Generator: execution of make failed. Make command was: nmake /nologo cmTC_4c669\fast && 
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+CMakeCCompilerId.c:2:3: error: #error "A C++ compiler has been selected for C."
+ # error "A C++ compiler has been selected for C."
+   ^~~~~
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+CMakeCCompilerId.c:2:3: error: #error "A C++ compiler has been selected for C."
+ # error "A C++ compiler has been selected for C."
+   ^~~~~
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin/g++.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+CMakeCCompilerId.c:2:3: error: #error "A C++ compiler has been selected for C."
+ # error "A C++ compiler has been selected for C."
+   ^~~~~
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin/g++.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+CMakeCCompilerId.c:2:3: error: #error "A C++ compiler has been selected for C."
+ # error "A C++ compiler has been selected for C."
+   ^~~~~
+CMakeCCompilerId.c:321:64: warning: ISO C++ forbids converting a string constant to 'char*' [-Wwrite-strings]
+ char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";
+                                                                ^~~
+CMakeCCompilerId.c:614:64: warning: ISO C++ forbids converting a string constant to 'char*' [-Wwrite-strings]
+ char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";
+                                                                ^~~
+CMakeCCompilerId.c:615:60: warning: ISO C++ forbids converting a string constant to 'char*' [-Wwrite-strings]
+ char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";
+                                                            ^~~
+CMakeCCompilerId.c:635:43: warning: ISO C++ forbids converting a string constant to 'char*' [-Wwrite-strings]
+   "INFO" ":" "dialect_default[" C_DIALECT "]";
+                                           ^~~
+CMakeCCompilerId.c:643:10: error: cannot declare '::main' to be a global variable
+ int main(argc, argv) int argc; char *argv[];
+          ^~~~
+CMakeCCompilerId.c:643:10: error: 'argc' was not declared in this scope
+CMakeCCompilerId.c:643:16: error: 'argv' was not declared in this scope
+ int main(argc, argv) int argc; char *argv[];
+                ^~~~
+CMakeCCompilerId.c:643:20: error: expression list treated as compound expression in initializer [-fpermissive]
+ int main(argc, argv) int argc; char *argv[];
+                    ^
+CMakeCCompilerId.c:643:38: error: storage size of 'argv' isn't known
+ int main(argc, argv) int argc; char *argv[];
+                                      ^~~~
+CMakeCCompilerId.c:647:1: error: expected unqualified-id before '{' token
+ {
+ ^
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin/g++.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+g++.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+g++.exe: error: unrecognized command line option '--target=arm-arm-none-eabi'
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+CMakeCCompilerId.c:2:3: error: #error "A C++ compiler has been selected for C."
+ # error "A C++ compiler has been selected for C."
+   ^~~~~
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+CMakeCCompilerId.c:2:3: error: #error "A C++ compiler has been selected for C."
+ # error "A C++ compiler has been selected for C."
+   ^~~~~
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin/g++.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+CMakeCCompilerId.c:2:3: error: #error "A C++ compiler has been selected for C."
+ # error "A C++ compiler has been selected for C."
+   ^~~~~
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin/g++.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+CMakeCCompilerId.c:2:3: error: #error "A C++ compiler has been selected for C."
+ # error "A C++ compiler has been selected for C."
+   ^~~~~
+CMakeCCompilerId.c:321:64: warning: ISO C++ forbids converting a string constant to 'char*' [-Wwrite-strings]
+ char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";
+                                                                ^~~
+CMakeCCompilerId.c:614:64: warning: ISO C++ forbids converting a string constant to 'char*' [-Wwrite-strings]
+ char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";
+                                                                ^~~
+CMakeCCompilerId.c:615:60: warning: ISO C++ forbids converting a string constant to 'char*' [-Wwrite-strings]
+ char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";
+                                                            ^~~
+CMakeCCompilerId.c:635:43: warning: ISO C++ forbids converting a string constant to 'char*' [-Wwrite-strings]
+   "INFO" ":" "dialect_default[" C_DIALECT "]";
+                                           ^~~
+CMakeCCompilerId.c:643:10: error: cannot declare '::main' to be a global variable
+ int main(argc, argv) int argc; char *argv[];
+          ^~~~
+CMakeCCompilerId.c:643:10: error: 'argc' was not declared in this scope
+CMakeCCompilerId.c:643:16: error: 'argv' was not declared in this scope
+ int main(argc, argv) int argc; char *argv[];
+                ^~~~
+CMakeCCompilerId.c:643:20: error: expression list treated as compound expression in initializer [-fpermissive]
+ int main(argc, argv) int argc; char *argv[];
+                    ^
+CMakeCCompilerId.c:643:38: error: storage size of 'argv' isn't known
+ int main(argc, argv) int argc; char *argv[];
+                                      ^~~~
+CMakeCCompilerId.c:647:1: error: expected unqualified-id before '{' token
+ {
+ ^
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Qt/Tools/mingw810_32/bin/g++.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+g++.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+g++.exe: error: unrecognized command line option '--target=arm-arm-none-eabi'
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+g++.exe: fatal error: no input files
+compilation terminated.
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/Andreas/Documents/CBlusBlus/Udacity/CppND-Route-Planning-Project/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_7775a\fast && Das System kann die angegebene Datei nicht finden
+Generator: execution of make failed. Make command was: nmake /nologo cmTC_7775a\fast && 
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/Users/Andreas/Documents/CBlusBlus/Udacity/CppND-Route-Planning-Project/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_ef918\fast && Das System kann die angegebene Datei nicht finden
+Generator: execution of make failed. Make command was: nmake /nologo cmTC_ef918\fast && 
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/Andreas/Documents/CBlusBlus/Udacity/CppND-Route-Planning-Project/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_a6beb\fast && Das System kann die angegebene Datei nicht finden
+Generator: execution of make failed. Make command was: nmake /nologo cmTC_a6beb\fast && 
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/Andreas/Documents/CBlusBlus/Udacity/CppND-Route-Planning-Project/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_d2656\fast && Das System kann die angegebene Datei nicht finden
+Generator: execution of make failed. Make command was: nmake /nologo cmTC_d2656\fast && 
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/Users/Andreas/Documents/CBlusBlus/Udacity/CppND-Route-Planning-Project/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_2dc00\fast && Das System kann die angegebene Datei nicht finden
+Generator: execution of make failed. Make command was: nmake /nologo cmTC_2dc00\fast && 
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/Andreas/Documents/CBlusBlus/Udacity/CppND-Route-Planning-Project/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_4863f\fast && Das System kann die angegebene Datei nicht finden
+Generator: execution of make failed. Make command was: nmake /nologo cmTC_4863f\fast && 
+
+
