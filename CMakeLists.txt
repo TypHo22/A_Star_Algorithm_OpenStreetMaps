@@ -5,8 +5,8 @@ set(CMAKE_CXX_STANDARD 17)
 
 # Add the path of the cmake files to the CMAKE_MODULE_PATH
 set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} ${CMAKE_SOURCE_DIR}/cmake)
-SET(CMAKE_CXX_COMPILER "D:/Qt/Tools/mingw810_32/bin/g++.exe")
-SET(CMAKE_C_COMPILER "D:/Qt/Tools/mingw810_32/bin/gcc.exe")
+#SET(CMAKE_CXX_COMPILER "D:/Qt/Tools/mingw810_32/bin/g++.exe")
+#SET(CMAKE_C_COMPILER "D:/Qt/Tools/mingw810_32/bin/gcc.exe")
 project(OSM_A_star_search)
 
 # Set library output path to /lib
